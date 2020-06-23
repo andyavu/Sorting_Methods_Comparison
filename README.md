@@ -7,4 +7,4 @@ Compares the runtimes between:
 
 • Three variations of Quick Sort
 
-The runtime of each method are reported in nanoseconds
+The runtime of each method are reported in nanoseconds.
