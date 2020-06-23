@@ -6,3 +6,5 @@ Compares the runtimes between:
 • Merge Sort
 
 • Three variations of Quick Sort
+
+The runtime of each method are reported in nanoseconds
